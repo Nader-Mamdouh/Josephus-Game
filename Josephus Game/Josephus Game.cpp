@@ -99,6 +99,7 @@ int main()
 	cout << "Please enter the increament counter : ";
 	cin >> Number_of_skip;
 	cout << endl;
+	//index start from 1 
 	int survivor = josephus(Number_of_players, Number_of_skip);
 	cout << "The survivor in a circle queue of " << Number_of_players << " players with a counter of " << Number_of_skip << " is the player number : " << survivor << endl;
 	return 0;
