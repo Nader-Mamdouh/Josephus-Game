@@ -90,7 +90,7 @@ int josephus(int Number_of_players, int Number_of_skip)
 }
 int main()
 {
-
+        cout << " Hello In Josephus Game " << endl;
 	int Number_of_players;
 	int Number_of_skip;
 	cout << "Please enter number of players : ";
