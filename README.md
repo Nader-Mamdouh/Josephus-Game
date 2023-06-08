@@ -8,7 +8,6 @@ until only the last person remains, who is given freedom.
 ## Example
 Here's an example of how the program works:
 Hello In Josephus Game
-Please enter the number of players: 10
-Please enter the increment counter: 3
-
-The survivor in a circle queue of 10 players with a counter of 3 is player number: 4
+- Please enter the number of players: 10
+- Please enter the increment counter: 3
+- The survivor in a circle queue of 10 players with a counter of 3 is player number: 4
